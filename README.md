@@ -1,19 +1,16 @@
 <div align="center">
 
-<h3><code>bilal@github ~ $ ./contributions.sh</code></h3>
+<h3><code>bilal@github ~ $ ./contributions.sh --game</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contributions" />
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contributions: a fighter jet burns the grid and leaves the name BILAL empty" />
 
 <br><br>
 
 <h3><code>bilal@github ~ $ whoami</code></h3>
 
-<table>
-  <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Bilal" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch card" /></td>
-  </tr>
-</table>
+<img src="./info-card.svg" width="860" alt="neofetch card of Bilal Bouchroub" />
+
+<br>
 
 ![Open to work](https://img.shields.io/badge/OPEN%20TO-PFE%202026-10b981?style=for-the-badge)
 ![ENSA El Jadida](https://img.shields.io/badge/ENSA-El%20Jadida-8b5cf6?style=for-the-badge)
@@ -80,6 +77,6 @@ Currently looking for a PFE where I can solve real problems.
 <a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bilalbouchy1365@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<sub>The contribution graph above refreshes itself every day with GitHub Actions.</sub>
+<sub>The graph above is a game: a fighter jet burns the whole grid and leaves my name empty. My real contribution count is shown right under it.</sub>
 
 </div>
