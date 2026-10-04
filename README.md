@@ -90,9 +90,35 @@ Currently looking for a PFE where I can solve real problems.
 
 <h3 align="center"><code>bilal@github ~ $ ./certifications.sh</code></h3>
 
+<h4 align="center"><code>// AWS Academy Graduate</code></h4>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./badges/aws-cloud-foundations.png" width="150" alt="AWS Academy Cloud Foundations" /></a><br>
+      <sub><b>Cloud Foundations</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./badges/aws-cloud-security-foundations.png" width="150" alt="AWS Academy Cloud Security Foundations" /></a><br>
+      <sub><b>Cloud Security Foundations</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./badges/aws-data-engineering.png" width="150" alt="AWS Academy Data Engineering" /></a><br>
+      <sub><b>Data Engineering</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./badges/aws-ml-foundations.png" width="150" alt="AWS Academy Machine Learning Foundations" /></a><br>
+      <sub><b>Machine Learning Foundations</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./badges/aws-ml-for-nlp.png" width="150" alt="AWS Academy Machine Learning for NLP" /></a><br>
+      <sub><b>Machine Learning for NLP</b></sub>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-SE%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
