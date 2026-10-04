@@ -2,13 +2,13 @@
 
 <h3><code>bilal@github ~ $ ./contributions.sh --game</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contributions: a fighter jet burns the grid and leaves the name BILAL empty" />
+<img src="./contrib-heatmap.svg?v=2" width="860" alt="GitHub contributions: a fighter jet burns the grid and leaves the name BILAL empty" />
 
 <br><br>
 
 <h3><code>bilal@github ~ $ whoami</code></h3>
 
-<img src="./info-card.svg" width="860" alt="neofetch card of Bilal Bouchroub" />
+<img src="./info-card.svg?v=2" width="860" alt="Profile console card of Bilal Bouchroub" />
 
 <br>
 
