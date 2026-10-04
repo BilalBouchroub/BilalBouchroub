@@ -1,0 +1,6 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# Portrait uniquement (en local, pas besoin pour le workflow quotidien) :
+pillow
+numpy
+opencv-python-headless
