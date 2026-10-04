@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=200&section=header&text=Bilal%20Bouchroub&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%C2%B7%20Full-Stack%20%C2%B7%20Data%20%26%20AI&descAlignY=58&descSize=18" width="100%" />
+
 
 <a href="https://github.com/BilalBouchroub">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Futur+ing%C3%A9nieur+en+g%C3%A9nie+informatique+%F0%9F%8E%93;Full-Stack+%C2%B7+.NET+%C2%B7+Spring+Boot+%C2%B7+React+%E2%9A%A1;Data+Engineering+%26+MLOps+%F0%9F%A4%96;%C3%80+la+recherche+d'un+PFE+%F0%9F%9A%80" alt="Typing SVG" />
