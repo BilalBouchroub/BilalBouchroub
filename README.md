@@ -111,7 +111,7 @@ Currently looking for a PFE where I can solve real problems.
       <sub><b>Machine Learning Foundations</b></sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./badges/aws-ml-for-nlp.png" width="150" alt="AWS Academy Machine Learning for NLP" /></a><br>
+      <a href="https://www.linkedin.com/in/bilal-bouchroub/details/certifications/"><img src="./h.png" width="150" alt="AWS Academy Machine Learning for NLP" /></a><br>
       <sub><b>Machine Learning for NLP</b></sub>
     </td>
   </tr>
